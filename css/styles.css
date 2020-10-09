@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  color: #8f8f8f;
+  color: #bd6868;
 }
 
 /* Headings */
@@ -28,7 +28,7 @@ p {
 /* Containers */
 
 .container-fluid{
-  padding: 5% 15%;
+  padding: 6% 15%;
 }
 
 /* Sections */
