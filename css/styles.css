@@ -93,7 +93,7 @@ p {
 /* Features Section */
 
 #features {
-  position: relative;
+  position: absolute;
 }
 
 .feature-title {
@@ -101,12 +101,12 @@ p {
 }
 
 .feature-box {
-  padding: 4.5%;
+  padding: 7.5%;
 }
 
 .icon {
   color: #ef8172;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .icon:hover {
