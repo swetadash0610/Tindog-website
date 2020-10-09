@@ -17,7 +17,7 @@ p {
 .big-heading {
   font-family: "Montserrat-Black";
   font-size: 3.5rem;
-  line-height: 1.5;
+  line-height: 1.2;
 }
 
 .section-heading {
@@ -28,7 +28,7 @@ p {
 /* Containers */
 
 .container-fluid{
-  padding: 7% 15%;
+  padding: 5% 15%;
 }
 
 /* Sections */
