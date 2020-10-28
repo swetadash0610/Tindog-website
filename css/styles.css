@@ -57,7 +57,7 @@ p {
 /* Sections  */
 
 .colored-section {
-  background-color: #993d8d;
+  background-color: #FFA500;
   color: #fff;
 }
 
@@ -66,7 +66,7 @@ p {
 }
 
 .feature-box {
-  padding: 2%;
+  padding: 4%;
 }
 
 .feature-title {
