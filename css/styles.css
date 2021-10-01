@@ -21,14 +21,14 @@ p {
 }
 
 .section-heading {
-  font-size: 3rem;
+  font-size: 5rem;
   line-height: 1.5;
 }
 
 /* Containers */
 
 .container-fluid{
-  padding: 5% 15%;
+  padding: 7% 15%;
 }
 
 /* Sections */
@@ -39,7 +39,7 @@ p {
 }
 
 .white-section {
-  background-color: #fff;
+  background-color: #000;
 }
 
 /* Navigation Bar */
