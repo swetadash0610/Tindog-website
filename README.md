@@ -14,5 +14,5 @@ In general, we follow the "fork-and-pull" Git workflow.
 
 4.Push your work back up to your fork.
 
-5.Submit a Pull request so that I can reiew your changes.
+5.Submit a Pull request so that I can review your changes.
 
