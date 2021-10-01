@@ -22,7 +22,7 @@ p {
 }
 
 .section-heading {
-  font-size: 3rem;
+  font-size: 5rem;
   line-height: 1.5;
 }
 
@@ -62,7 +62,7 @@ p {
 }
 
 .white-section {
-  background-color: #fff;
+  background-color: #000;
 }
 
 .feature-box {
