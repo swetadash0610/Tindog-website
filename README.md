@@ -2,7 +2,7 @@
 It is a website for dogs to find partners through potential owners. Made with similar idea to tinder but for dogs.
 
 # How can you contribute:
-Contributions for Hacktoberfest 2020 are welcome 🎉🎉
+Contributions for Hacktoberfest 2021 are welcome 🎉🎉
 
 In general, we follow the "fork-and-pull" Git workflow.
 
