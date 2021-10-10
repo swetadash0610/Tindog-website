@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat";
 }
 
@@ -31,7 +31,6 @@ p {
   margin: 20px 20px 50px;
 }
 
-
 /* Testimonials */
 
 .testimonial-image {
@@ -45,14 +44,11 @@ p {
   line-height: 1.5;
 }
 
-
 /* Containers */
-
 
 .container-fluid {
   padding: 7% 15%;
 }
-
 
 /* Sections  */
 
@@ -83,7 +79,6 @@ p {
   color: #ff4c68;
 }
 
-
 /* Navigation Bar  */
 
 .navbar {
@@ -113,11 +108,11 @@ p {
   padding: 0 10px;
   margin: 0 10px;
 }
+
 .nav-link:hover {
   background-color: #c949c9;
   padding: 10px 5px;
-  }
-
+}
 
 /* Title Section  */
 
@@ -127,12 +122,10 @@ p {
   text-align: left;
 }
 
-
 #title .container-fluid {
   padding: 3% 15%;
   text-align: left;
 }
-
 
 /* Title Image */
 
@@ -143,17 +136,15 @@ p {
   right: 30%;
 }
 
-
 /* Download Buttons */
 
 .download-button {
   margin: 5% 3% 5% 0%;
 }
 
-.download-button:hover{
+.download-button:hover {
   transform: translateY(-10px);
 }
-
 
 /* Pricing Section */
 
@@ -184,12 +175,16 @@ p {
   padding-bottom: 3%;
 }
 
-.card:hover{
+.card:hover {
+  transition-duration: 2s;
   transform: translateY(-20px);
+  background-color: #000;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 30px;
 }
 
 /* CTA Section */
-
 
 /* Footer Section  */
 
@@ -203,13 +198,12 @@ p {
 
 /* Media Query */
 
-
 @media (max-width: 1028px) {
   #title {
-      text-align: center;
+    text-align: center;
   }
   .title-image {
-      position: static;
-      transform: rotate(0);
+    position: static;
+    transform: rotate(0);
   }
 }
