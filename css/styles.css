@@ -131,9 +131,9 @@ p {
 
 .title-image {
   width: 60%;
-  transform: rotate(25deg);
+  transform: rotate(30deg);
   position: absolute;
-  right: 30%;
+  right: 40%;
 }
 
 /* Download Buttons */
@@ -176,12 +176,12 @@ p {
 }
 
 .card:hover {
-  transition-duration: 2s;
+  transition-duration: 4s;
   transform: translateY(-20px);
   background-color: #000;
   color: #fff;
   border: 2px solid #fff;
-  border-radius: 30px;
+  border-radius: 35px;
 }
 
 /* CTA Section */
