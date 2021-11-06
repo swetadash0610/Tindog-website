@@ -1,6 +1,8 @@
 # Tindog-website
 It is a website for dogs to find partners through potential owners. An idea similar to Tinder but for our lovely dogs .Woof Woof !!
 
+You can visit the site at: https://swetadash0610/github.io/tindog
+
 # How can you contribute:
 Contributions for Hacktoberfest 2021 are welcome 🎉🎉
 
